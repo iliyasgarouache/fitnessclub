@@ -1,0 +1,9 @@
+.bg-secondary {
+  --bs-bg-opacity: 1;
+  background-color: var(--bs-orange);
+}
+
+.NAVbbar {
+  background-color: var(--bs-indigo);
+}
+
